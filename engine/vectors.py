@@ -58,23 +58,40 @@ def create_vector(cardinal):
 
 def extract_attributes(cardinal):
     """
-    Extract the attributes from a cardinal's data.
+    Extract the ratings for conservative, reform_leaning, lgbtq_policies, and environmentalism from analysis_results.
     
     Args:
-        cardinal (dict): A dictionary containing cardinal data with 'attributes' key.
+        cardinal (dict): A dictionary containing cardinal data with 'analysis_results' key.
         
     Returns:
-        list: A list of dictionaries with issue_title and label for each attribute.
+        list: A list of dictionaries with issue_title and rating for each attribute.
     """
     attributes = []
     
-    # Extract attributes from the cardinal data
-    for attr in cardinal.get("attributes", []):
-        if "issue_title" in attr and "label" in attr:
-            attributes.append({
-                "issue_title": attr["issue_title"],
-                "label": attr["label"]
-            })
+    # Get analysis_results, default to empty dict if missing
+    analysis = cardinal.get("analysis_results", {})
+    
+    # Extract theological_stance ratings
+    theo_stance = analysis.get("theological_stance", {})
+    attributes.append({
+        "issue_title": "conservative",
+        "rating": theo_stance.get("conservative", {}).get("rating", 3.0)
+    })
+    attributes.append({
+        "issue_title": "reform_leaning",
+        "rating": theo_stance.get("reform_leaning", {}).get("rating", 3.0)
+    })
+    
+    # Extract issue_positions ratings
+    issue_pos = analysis.get("issue_positions", {})
+    attributes.append({
+        "issue_title": "lgbtq_policies",
+        "rating": issue_pos.get("lgbtq_policies", {}).get("rating", 3.0)
+    })
+    attributes.append({
+        "issue_title": "environmentalism",
+        "rating": issue_pos.get("environmentalism", {}).get("rating", 3.0)
+    })
     
     return attributes
 
@@ -161,7 +178,7 @@ try:
             try:
                 attrs = json.loads(attributes)
                 for attr in attrs:
-                    parsed_attrs.append(f"{attr['issue_title']}: {attr['label']}")
+                    parsed_attrs.append(f"{attr['issue_title']}: {attr['rating']}")
             except (json.JSONDecodeError, TypeError):
                 parsed_attrs = ["No attributes available"]
             
