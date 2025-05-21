@@ -1,6 +1,6 @@
 [
     {
-        "name": "Cardinal José Fuerte Advincula",
+        "name": "Cardinal Jos\u00e9 Fuerte Advincula",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/jose-fuerte-advincula/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Advincula-Archdiocese-of-Manila-e1733859506272-300x282.jpg",
         "voting_status": "Voting",
@@ -63,7 +63,7 @@
         }
     },
     {
-        "name": "Cardinal Américo Manuel Aguiar Alves",
+        "name": "Cardinal Am\u00e9rico Manuel Aguiar Alves",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/americo-manuel-aguiar-alves/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Americo-Aguiar-Alves-Maria-Grazia-Picciarella-Alamy-e1733979077663-300x265.jpeg",
         "voting_status": "Voting",
@@ -143,32 +143,14 @@
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
                 "subtitle": "Cardinal Aguiar Retes on Restricting the Vetus Ordo (Old Latin Mass)",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Aguiar Retes on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Aguiar Retes on Promoting a \u201cSynodal Church\u201d",
                 "value": "5",
                 "label": "Strongly Favors"
             },
@@ -179,22 +161,10 @@
                 "label": "Strongly Favors"
             },
             {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Aguiar Retes on Communion for Divorced and “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Aguiar Retes on Communion for Divorced and \u201cRemarried\u201d",
                 "value": "4",
                 "label": "Favors"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -284,14 +254,8 @@
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Ambongo on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Ambongo on Promoting a \u201cSynodal Church\u201d",
                 "value": "5",
                 "label": "Strongly Favors"
             },
@@ -302,20 +266,8 @@
                 "label": "Strongly Favors"
             },
             {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Ambongo on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Ambongo on German \u201cSynodal Way\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -407,14 +359,8 @@
                 "label": "Against"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Aveline on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Aveline on Promoting a \u201cSynodal Church\u201d",
                 "value": "5",
                 "label": "Strongly Favors"
             },
@@ -423,24 +369,6 @@
                 "subtitle": "Cardinal Aveline on Focusing on Climate Change",
                 "value": "5",
                 "label": "Strongly Favors"
-            },
-            {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -495,7 +423,7 @@
         }
     },
     {
-        "name": "Cardinal João Braz de Aviz",
+        "name": "Cardinal Jo\u00e3o Braz de Aviz",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/joao-braz-de-aviz/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Braz-de-Aviz-Photo-by-Edward-Pentin-e1732585950549-300x279.jpeg",
         "voting_status": "Voting",
@@ -839,20 +767,14 @@
                 "label": "Against"
             },
             {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Vatican-China Secret Accords",
                 "subtitle": "Cardinal Bo on Vatican-China Secret Accords",
                 "value": "1",
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Bo on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Bo on Promoting a \u201cSynodal Church\u201d",
                 "value": "4",
                 "label": "Favors"
             },
@@ -863,22 +785,10 @@
                 "label": "Favors"
             },
             {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Bo on Communion for Divorced and “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Bo on Communion for Divorced and \u201cRemarried\u201d",
                 "value": "4",
                 "label": "Favors"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -996,7 +906,7 @@
         }
     },
     {
-        "name": "Cardinal Josip Bozanić",
+        "name": "Cardinal Josip Bozani\u0107",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/josip-bozanic/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Bozanic-Pixsell-Alamy-e1733980697563-300x280.jpeg",
         "voting_status": "Voting",
@@ -1011,57 +921,57 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Bozanić's strong stance against same-sex marriage and his emphasis on the importance of procreation in marriage suggest a conservative theological stance. Additionally, his criticism of those who obstructed the canonization process of Blessed Cardinal Alojzije Stepinac, who was persecuted by the Communists, implies a conservative approach to Church history and tradition."
+                "explanation": "Cardinal Bozani\u0107's strong stance against same-sex marriage and his emphasis on the importance of procreation in marriage suggest a conservative theological stance. Additionally, his criticism of those who obstructed the canonization process of Blessed Cardinal Alojzije Stepinac, who was persecuted by the Communists, implies a conservative approach to Church history and tradition."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Cardinal Bozanić has been involved in some reform efforts, such as his appointment to the cardinal commission for the Vatican bank, his overall theological stance and actions suggest a more conservative approach to reform. His emphasis on traditional Church teachings and his opposition to same-sex marriage are not indicative of a strong reform leaning."
+                "explanation": "While Cardinal Bozani\u0107 has been involved in some reform efforts, such as his appointment to the cardinal commission for the Vatican bank, his overall theological stance and actions suggest a more conservative approach to reform. His emphasis on traditional Church teachings and his opposition to same-sex marriage are not indicative of a strong reform leaning."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "1",
                 "label": "Strongly Conservative/Against",
-                "explanation": "Cardinal Bozanić's strong opposition to same-sex marriage and his involvement in the 2013 Croatian referendum on the definition of marriage suggest a strongly conservative stance on LGBTQ+ policies."
+                "explanation": "Cardinal Bozani\u0107's strong opposition to same-sex marriage and his involvement in the 2013 Croatian referendum on the definition of marriage suggest a strongly conservative stance on LGBTQ+ policies."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "3",
                 "label": "Neutral/Balanced",
-                "explanation": "While there is no explicit mention of environmentalism in Cardinal Bozanić's profile, his emphasis on the importance of interdependence and solidarity in human development suggests a neutral or balanced approach to environmental issues. However, without more information, it is difficult to determine his specific stance on environmentalism."
+                "explanation": "While there is no explicit mention of environmentalism in Cardinal Bozani\u0107's profile, his emphasis on the importance of interdependence and solidarity in human development suggests a neutral or balanced approach to environmental issues. However, without more information, it is difficult to determine his specific stance on environmentalism."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 4,
-                    "explanation": "Cardinal Bozanić's strong stance against same-sex marriage and his emphasis on the importance of procreation in marriage suggest a conservative theological stance. Additionally, his criticism of those who obstructed the canonization process of Blessed Cardinal Alojzije Stepinac, who was persecuted by the Communists, implies a conservative approach to Church history and tradition."
+                    "explanation": "Cardinal Bozani\u0107's strong stance against same-sex marriage and his emphasis on the importance of procreation in marriage suggest a conservative theological stance. Additionally, his criticism of those who obstructed the canonization process of Blessed Cardinal Alojzije Stepinac, who was persecuted by the Communists, implies a conservative approach to Church history and tradition."
                 },
                 "reform_leaning": {
                     "rating": 2,
-                    "explanation": "While Cardinal Bozanić has been involved in some reform efforts, such as his appointment to the cardinal commission for the Vatican bank, his overall theological stance and actions suggest a more conservative approach to reform. His emphasis on traditional Church teachings and his opposition to same-sex marriage are not indicative of a strong reform leaning."
+                    "explanation": "While Cardinal Bozani\u0107 has been involved in some reform efforts, such as his appointment to the cardinal commission for the Vatican bank, his overall theological stance and actions suggest a more conservative approach to reform. His emphasis on traditional Church teachings and his opposition to same-sex marriage are not indicative of a strong reform leaning."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 1,
-                    "explanation": "Cardinal Bozanić's strong opposition to same-sex marriage and his involvement in the 2013 Croatian referendum on the definition of marriage suggest a strongly conservative stance on LGBTQ+ policies."
+                    "explanation": "Cardinal Bozani\u0107's strong opposition to same-sex marriage and his involvement in the 2013 Croatian referendum on the definition of marriage suggest a strongly conservative stance on LGBTQ+ policies."
                 },
                 "environmentalism": {
                     "rating": 3,
-                    "explanation": "While there is no explicit mention of environmentalism in Cardinal Bozanić's profile, his emphasis on the importance of interdependence and solidarity in human development suggests a neutral or balanced approach to environmental issues. However, without more information, it is difficult to determine his specific stance on environmentalism."
+                    "explanation": "While there is no explicit mention of environmentalism in Cardinal Bozani\u0107's profile, his emphasis on the importance of interdependence and solidarity in human development suggests a neutral or balanced approach to environmental issues. However, without more information, it is difficult to determine his specific stance on environmentalism."
                 }
             }
         }
     },
     {
-        "name": "Cardinal Leopoldo José Brenes Solórzano",
+        "name": "Cardinal Leopoldo Jos\u00e9 Brenes Sol\u00f3rzano",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/leopoldo-jose-brenes-solorzano/",
-        "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Screenshot-2024-11-26-at-7.07.50 PM-e1732644562359-300x300.png",
+        "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Screenshot-2024-11-26-at-7.07.50\u202fPM-e1732644562359-300x300.png",
         "voting_status": "Voting",
         "created_by": "Francis",
         "age": "76",
@@ -1151,20 +1061,8 @@
                 "label": "Favors"
             },
             {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Brislin on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Brislin on Promoting a \u201cSynodal Church\u201d",
                 "value": "4",
                 "label": "Favors"
             },
@@ -1181,16 +1079,10 @@
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Brislin on Communion for Divorced and “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Brislin on Communion for Divorced and \u201cRemarried\u201d",
                 "value": "4",
                 "label": "Favors"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -1286,7 +1178,7 @@
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
                 "subtitle": "Cardinal Burke on Promoting a Synodal Church",
                 "value": "1",
                 "label": "Strongly Against"
@@ -1304,14 +1196,14 @@
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
                 "subtitle": "Cardinal Burke on Communion for Divorced and Civilly Remarried Catholics",
                 "value": "1",
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Burke on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Burke on German \u201cSynodal Way\u201d",
                 "value": "1",
                 "label": "Strongly Against"
             },
@@ -1368,7 +1260,7 @@
         }
     },
     {
-        "name": "Cardinal François-Xavier Bustillo",
+        "name": "Cardinal Fran\u00e7ois-Xavier Bustillo",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/francois-xavier-bustillo/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Bustillo-Photo-by-Diocese-of-Ajaccio-e1732812132708-300x296.png",
         "voting_status": "Voting",
@@ -1557,7 +1449,7 @@
         }
     },
     {
-        "name": "Cardinal Antonio Cañizares Llovera",
+        "name": "Cardinal Antonio Ca\u00f1izares Llovera",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/antonio-canizares-llovera/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Canizares-Photo-by-Paul-Harring-e1732815186407-300x283.jpg",
         "voting_status": "Voting",
@@ -1572,49 +1464,49 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "5",
                 "label": "Strongly Progressive/Supports",
-                "explanation": "Cardinal Cañizares Llovera's theological stance is strongly conservative, as evident from his criticism of 'gay empire' and 'certain feminist ideologies', and his defense of the 'Christian family'. He has also been a vocal defender of traditional forms of liturgy and has suspended the celebration of the Vetus Ordo in his archdiocese."
+                "explanation": "Cardinal Ca\u00f1izares Llovera's theological stance is strongly conservative, as evident from his criticism of 'gay empire' and 'certain feminist ideologies', and his defense of the 'Christian family'. He has also been a vocal defender of traditional forms of liturgy and has suspended the celebration of the Vetus Ordo in his archdiocese."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "1",
                 "label": "Strongly Conservative/Against",
-                "explanation": "There is no indication that Cardinal Cañizares Llovera has a reform-leaning theological stance. In fact, his conservative views on various issues suggest that he is opposed to reforms in the Church."
+                "explanation": "There is no indication that Cardinal Ca\u00f1izares Llovera has a reform-leaning theological stance. In fact, his conservative views on various issues suggest that he is opposed to reforms in the Church."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "1",
                 "label": "Strongly Conservative/Against",
-                "explanation": "Cardinal Cañizares Llovera has been critical of LGBTQ+ policies and has referred to the 'gay empire' as a threat to Christian values. This suggests that he is strongly opposed to progressive policies towards the LGBTQ+ community."
+                "explanation": "Cardinal Ca\u00f1izares Llovera has been critical of LGBTQ+ policies and has referred to the 'gay empire' as a threat to Christian values. This suggests that he is strongly opposed to progressive policies towards the LGBTQ+ community."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Cardinal Cañizares Llovera has not explicitly spoken on environmental issues, his conservative stance on various social and moral issues suggests that he may be skeptical of progressive environmental policies. However, he has not publicly opposed environmental conservation efforts, so a moderate rating is given."
+                "explanation": "While Cardinal Ca\u00f1izares Llovera has not explicitly spoken on environmental issues, his conservative stance on various social and moral issues suggests that he may be skeptical of progressive environmental policies. However, he has not publicly opposed environmental conservation efforts, so a moderate rating is given."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 5,
-                    "explanation": "Cardinal Cañizares Llovera's theological stance is strongly conservative, as evident from his criticism of 'gay empire' and 'certain feminist ideologies', and his defense of the 'Christian family'. He has also been a vocal defender of traditional forms of liturgy and has suspended the celebration of the Vetus Ordo in his archdiocese."
+                    "explanation": "Cardinal Ca\u00f1izares Llovera's theological stance is strongly conservative, as evident from his criticism of 'gay empire' and 'certain feminist ideologies', and his defense of the 'Christian family'. He has also been a vocal defender of traditional forms of liturgy and has suspended the celebration of the Vetus Ordo in his archdiocese."
                 },
                 "reform_leaning": {
                     "rating": 1,
-                    "explanation": "There is no indication that Cardinal Cañizares Llovera has a reform-leaning theological stance. In fact, his conservative views on various issues suggest that he is opposed to reforms in the Church."
+                    "explanation": "There is no indication that Cardinal Ca\u00f1izares Llovera has a reform-leaning theological stance. In fact, his conservative views on various issues suggest that he is opposed to reforms in the Church."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 1,
-                    "explanation": "Cardinal Cañizares Llovera has been critical of LGBTQ+ policies and has referred to the 'gay empire' as a threat to Christian values. This suggests that he is strongly opposed to progressive policies towards the LGBTQ+ community."
+                    "explanation": "Cardinal Ca\u00f1izares Llovera has been critical of LGBTQ+ policies and has referred to the 'gay empire' as a threat to Christian values. This suggests that he is strongly opposed to progressive policies towards the LGBTQ+ community."
                 },
                 "environmentalism": {
                     "rating": 2,
-                    "explanation": "While Cardinal Cañizares Llovera has not explicitly spoken on environmental issues, his conservative stance on various social and moral issues suggests that he may be skeptical of progressive environmental policies. However, he has not publicly opposed environmental conservation efforts, so a moderate rating is given."
+                    "explanation": "While Cardinal Ca\u00f1izares Llovera has not explicitly spoken on environmental issues, his conservative stance on various social and moral issues suggests that he may be skeptical of progressive environmental policies. However, he has not publicly opposed environmental conservation efforts, so a moderate rating is given."
                 }
             }
         }
@@ -1746,7 +1638,7 @@
         }
     },
     {
-        "name": "Cardinal Fernando Natalio Chomalí Garib",
+        "name": "Cardinal Fernando Natalio Chomal\u00ed Garib",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/cardinal-fernando-natalio-chomali-garib/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/12/007A4084-e1733761242974-288x300.jpeg",
         "voting_status": "Voting",
@@ -1761,49 +1653,49 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Cardinal Chomalí has not explicitly stated his stance on various theological issues, his background in moral theology and bioethics suggests a moderate conservative approach. His membership in the Pontifical Academy for Life and his involvement in bioethics-related issues indicate a commitment to traditional Catholic teachings on life and morality."
+                "explanation": "While Cardinal Chomal\u00ed has not explicitly stated his stance on various theological issues, his background in moral theology and bioethics suggests a moderate conservative approach. His membership in the Pontifical Academy for Life and his involvement in bioethics-related issues indicate a commitment to traditional Catholic teachings on life and morality."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Chomalí's response to the clerical sex abuse scandals and his proposals for reform, such as separating offices handling abuse complaints and implementing transparency rules, demonstrate a willingness to address issues and adapt to changing circumstances. His recognition of the Church's loss of credibility and his call for cooperation with civil authorities also suggest a reform-leaning approach."
+                "explanation": "Cardinal Chomal\u00ed's response to the clerical sex abuse scandals and his proposals for reform, such as separating offices handling abuse complaints and implementing transparency rules, demonstrate a willingness to address issues and adapt to changing circumstances. His recognition of the Church's loss of credibility and his call for cooperation with civil authorities also suggest a reform-leaning approach."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "As a conservative-leaning theologian, Cardinal Chomalí may not explicitly support LGBTQ+ policies. However, his silence on the issue and his focus on other areas, such as bioethics and reform, suggest a moderate stance rather than a strongly conservative one."
+                "explanation": "As a conservative-leaning theologian, Cardinal Chomal\u00ed may not explicitly support LGBTQ+ policies. However, his silence on the issue and his focus on other areas, such as bioethics and reform, suggest a moderate stance rather than a strongly conservative one."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "3",
                 "label": "Neutral/Balanced",
-                "explanation": "Cardinal Chomalí's background in bioethics and his involvement in issues related to human life and dignity may not necessarily imply a strong stance on environmentalism. However, his silence on the issue and the lack of explicit statements suggest a neutral or balanced approach, rather than a strongly progressive or conservative one."
+                "explanation": "Cardinal Chomal\u00ed's background in bioethics and his involvement in issues related to human life and dignity may not necessarily imply a strong stance on environmentalism. However, his silence on the issue and the lack of explicit statements suggest a neutral or balanced approach, rather than a strongly progressive or conservative one."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 2,
-                    "explanation": "While Cardinal Chomalí has not explicitly stated his stance on various theological issues, his background in moral theology and bioethics suggests a moderate conservative approach. His membership in the Pontifical Academy for Life and his involvement in bioethics-related issues indicate a commitment to traditional Catholic teachings on life and morality."
+                    "explanation": "While Cardinal Chomal\u00ed has not explicitly stated his stance on various theological issues, his background in moral theology and bioethics suggests a moderate conservative approach. His membership in the Pontifical Academy for Life and his involvement in bioethics-related issues indicate a commitment to traditional Catholic teachings on life and morality."
                 },
                 "reform_leaning": {
                     "rating": 4,
-                    "explanation": "Cardinal Chomalí's response to the clerical sex abuse scandals and his proposals for reform, such as separating offices handling abuse complaints and implementing transparency rules, demonstrate a willingness to address issues and adapt to changing circumstances. His recognition of the Church's loss of credibility and his call for cooperation with civil authorities also suggest a reform-leaning approach."
+                    "explanation": "Cardinal Chomal\u00ed's response to the clerical sex abuse scandals and his proposals for reform, such as separating offices handling abuse complaints and implementing transparency rules, demonstrate a willingness to address issues and adapt to changing circumstances. His recognition of the Church's loss of credibility and his call for cooperation with civil authorities also suggest a reform-leaning approach."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 2,
-                    "explanation": "As a conservative-leaning theologian, Cardinal Chomalí may not explicitly support LGBTQ+ policies. However, his silence on the issue and his focus on other areas, such as bioethics and reform, suggest a moderate stance rather than a strongly conservative one."
+                    "explanation": "As a conservative-leaning theologian, Cardinal Chomal\u00ed may not explicitly support LGBTQ+ policies. However, his silence on the issue and his focus on other areas, such as bioethics and reform, suggest a moderate stance rather than a strongly conservative one."
                 },
                 "environmentalism": {
                     "rating": 3,
-                    "explanation": "Cardinal Chomalí's background in bioethics and his involvement in issues related to human life and dignity may not necessarily imply a strong stance on environmentalism. However, his silence on the issue and the lack of explicit statements suggest a neutral or balanced approach, rather than a strongly progressive or conservative one."
+                    "explanation": "Cardinal Chomal\u00ed's background in bioethics and his involvement in issues related to human life and dignity may not necessarily imply a strong stance on environmentalism. However, his silence on the issue and the lack of explicit statements suggest a neutral or balanced approach, rather than a strongly progressive or conservative one."
                 }
             }
         }
@@ -1872,7 +1764,7 @@
         }
     },
     {
-        "name": "Cardinal José Cobo Cano",
+        "name": "Cardinal Jos\u00e9 Cobo Cano",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/jose-cobo-cano/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Cobo-Cano-Photo-by-Archdiocese-of-Madrid-e1732840409743-287x300.jpeg",
         "voting_status": "Voting",
@@ -2594,28 +2486,10 @@
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Eijk on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Eijk on Promoting a \u201cSynodal Church\u201d",
                 "value": "3",
                 "label": "Ambiguous"
-            },
-            {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Reassessing Humanae Vitae",
@@ -2624,14 +2498,14 @@
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
                 "subtitle": "Cardinal Eijk on Communion for Divorced and Civilly Remarried Catholics",
                 "value": "1",
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Eijk on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Eijk on German \u201cSynodal Way\u201d",
                 "value": "2",
                 "label": "Against"
             },
@@ -2751,7 +2625,7 @@
         }
     },
     {
-        "name": "Cardinal Víctor Manuel Fernández",
+        "name": "Cardinal V\u00edctor Manuel Fern\u00e1ndez",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/victor-manuel-fernandez/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/07/Fernandez-Maria-Grazia-Picciarella-Alamy-e1733984199224-300x295.jpeg",
         "voting_status": "Voting",
@@ -2763,61 +2637,55 @@
         "attributes": [
             {
                 "issue_title": "Ordaining Female Deacons",
-                "subtitle": "Cardinal Fernández on Ordaining Female Deacons",
+                "subtitle": "Cardinal Fern\u00e1ndez on Ordaining Female Deacons",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
                 "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "Cardinal Fernández on Blessing Same-Sex Couples",
+                "subtitle": "Cardinal Fern\u00e1ndez on Blessing Same-Sex Couples",
                 "value": "5",
                 "label": "Strongly Favors"
             },
             {
                 "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "Cardinal Fernández on Making Priestly Celibacy Optional",
+                "subtitle": "Cardinal Fern\u00e1ndez on Making Priestly Celibacy Optional",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
                 "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "Cardinal Fernández on Restricting the Vetus Ordo (Old Latin Mass)",
+                "subtitle": "Cardinal Fern\u00e1ndez on Restricting the Vetus Ordo (Old Latin Mass)",
                 "value": "4",
                 "label": "Favors"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Fernández on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Fern\u00e1ndez on Promoting a \u201cSynodal Church\u201d",
                 "value": "4",
                 "label": "Favors"
             },
             {
                 "issue_title": "Focusing on Climate Change",
-                "subtitle": "Cardinal Fernández on Focusing on Climate Change",
+                "subtitle": "Cardinal Fern\u00e1ndez on Focusing on Climate Change",
                 "value": "4",
                 "label": "Favors"
             },
             {
                 "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "Cardinal Fernández on Reassessing Humanae Vitae",
+                "subtitle": "Cardinal Fern\u00e1ndez on Reassessing Humanae Vitae",
                 "value": "4",
                 "label": "Favors"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Fernández on Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Fern\u00e1ndez on Communion for Divorced & \u201cRemarried\u201d",
                 "value": "5",
                 "label": "Strongly Favors"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Fernández on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Fern\u00e1ndez on German \u201cSynodal Way\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -2826,55 +2694,55 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Fernández has expressed opposition to abortion and has a strong sense of orthodoxy, his views on other issues, such as the role of contemplation in the life of a priest, are more progressive and have been criticized by some as unorthodox."
+                "explanation": "While Fern\u00e1ndez has expressed opposition to abortion and has a strong sense of orthodoxy, his views on other issues, such as the role of contemplation in the life of a priest, are more progressive and have been criticized by some as unorthodox."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Fernández's emphasis on pastoral theology, his focus on social justice, and his willingness to challenge traditional norms and practices suggest a reform-leaning theological stance."
+                "explanation": "Fern\u00e1ndez's emphasis on pastoral theology, his focus on social justice, and his willingness to challenge traditional norms and practices suggest a reform-leaning theological stance."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Fernández has been a vocal advocate for the rights of LGBTQ+ individuals and has supported non-liturgical blessings of same-sex couples by priests."
+                "explanation": "Fern\u00e1ndez has been a vocal advocate for the rights of LGBTQ+ individuals and has supported non-liturgical blessings of same-sex couples by priests."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "3",
                 "label": "Neutral/Balanced",
-                "explanation": "While Fernández has not explicitly addressed environmental issues, his focus on social justice and his emphasis on the importance of caring for the poor and marginalized suggest a moderate level of support for environmentalism."
+                "explanation": "While Fern\u00e1ndez has not explicitly addressed environmental issues, his focus on social justice and his emphasis on the importance of caring for the poor and marginalized suggest a moderate level of support for environmentalism."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 2,
-                    "explanation": "While Fernández has expressed opposition to abortion and has a strong sense of orthodoxy, his views on other issues, such as the role of contemplation in the life of a priest, are more progressive and have been criticized by some as unorthodox."
+                    "explanation": "While Fern\u00e1ndez has expressed opposition to abortion and has a strong sense of orthodoxy, his views on other issues, such as the role of contemplation in the life of a priest, are more progressive and have been criticized by some as unorthodox."
                 },
                 "reform_leaning": {
                     "rating": 4,
-                    "explanation": "Fernández's emphasis on pastoral theology, his focus on social justice, and his willingness to challenge traditional norms and practices suggest a reform-leaning theological stance."
+                    "explanation": "Fern\u00e1ndez's emphasis on pastoral theology, his focus on social justice, and his willingness to challenge traditional norms and practices suggest a reform-leaning theological stance."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 4,
-                    "explanation": "Fernández has been a vocal advocate for the rights of LGBTQ+ individuals and has supported non-liturgical blessings of same-sex couples by priests."
+                    "explanation": "Fern\u00e1ndez has been a vocal advocate for the rights of LGBTQ+ individuals and has supported non-liturgical blessings of same-sex couples by priests."
                 },
                 "environmentalism": {
                     "rating": 3,
-                    "explanation": "While Fernández has not explicitly addressed environmental issues, his focus on social justice and his emphasis on the importance of caring for the poor and marginalized suggest a moderate level of support for environmentalism."
+                    "explanation": "While Fern\u00e1ndez has not explicitly addressed environmental issues, his focus on social justice and his emphasis on the importance of caring for the poor and marginalized suggest a moderate level of support for environmentalism."
                 }
             }
         }
     },
     {
-        "name": "Cardinal Ángel Fernández Artime",
+        "name": "Cardinal \u00c1ngel Fern\u00e1ndez Artime",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/angel-fernandez-artime/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Artime-Fernandez-2-Photo-by-Salesian-News-Agency-246x300.jpg",
         "voting_status": "Voting",
@@ -2889,55 +2757,55 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Cardinal Fernández Artime has expressed loyalty to Pope Francis and has supported his initiatives, he has also shown a willingness to adapt to changing circumstances and has emphasized the importance of 'walking together' and seeking new paths for evangelization. This suggests a moderate level of conservatism in his theological stance."
+                "explanation": "While Cardinal Fern\u00e1ndez Artime has expressed loyalty to Pope Francis and has supported his initiatives, he has also shown a willingness to adapt to changing circumstances and has emphasized the importance of 'walking together' and seeking new paths for evangelization. This suggests a moderate level of conservatism in his theological stance."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Fernández Artime has demonstrated a willingness to engage with contemporary issues and has expressed support for Pope Francis' initiatives, such as the synodal approach. He has also shown a concern for the most vulnerable, including young prisoners and migrants. This suggests a moderate level of reform-leaning in his theological stance."
+                "explanation": "Cardinal Fern\u00e1ndez Artime has demonstrated a willingness to engage with contemporary issues and has expressed support for Pope Francis' initiatives, such as the synodal approach. He has also shown a concern for the most vulnerable, including young prisoners and migrants. This suggests a moderate level of reform-leaning in his theological stance."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Fernández Artime has not publicly expressed any anti-LGBTQ+ sentiments, and his focus on supporting the most vulnerable, including young people, suggests a moderate level of support for LGBTQ+ policies."
+                "explanation": "Cardinal Fern\u00e1ndez Artime has not publicly expressed any anti-LGBTQ+ sentiments, and his focus on supporting the most vulnerable, including young people, suggests a moderate level of support for LGBTQ+ policies."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Fernández Artime has not publicly expressed any anti-environmentalist sentiments, and his focus on supporting the most vulnerable, including young people, suggests a moderate level of support for environmentalism."
+                "explanation": "Cardinal Fern\u00e1ndez Artime has not publicly expressed any anti-environmentalist sentiments, and his focus on supporting the most vulnerable, including young people, suggests a moderate level of support for environmentalism."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 2,
-                    "explanation": "While Cardinal Fernández Artime has expressed loyalty to Pope Francis and has supported his initiatives, he has also shown a willingness to adapt to changing circumstances and has emphasized the importance of 'walking together' and seeking new paths for evangelization. This suggests a moderate level of conservatism in his theological stance."
+                    "explanation": "While Cardinal Fern\u00e1ndez Artime has expressed loyalty to Pope Francis and has supported his initiatives, he has also shown a willingness to adapt to changing circumstances and has emphasized the importance of 'walking together' and seeking new paths for evangelization. This suggests a moderate level of conservatism in his theological stance."
                 },
                 "reform_leaning": {
                     "rating": 4,
-                    "explanation": "Cardinal Fernández Artime has demonstrated a willingness to engage with contemporary issues and has expressed support for Pope Francis' initiatives, such as the synodal approach. He has also shown a concern for the most vulnerable, including young prisoners and migrants. This suggests a moderate level of reform-leaning in his theological stance."
+                    "explanation": "Cardinal Fern\u00e1ndez Artime has demonstrated a willingness to engage with contemporary issues and has expressed support for Pope Francis' initiatives, such as the synodal approach. He has also shown a concern for the most vulnerable, including young prisoners and migrants. This suggests a moderate level of reform-leaning in his theological stance."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 4,
-                    "explanation": "Cardinal Fernández Artime has not publicly expressed any anti-LGBTQ+ sentiments, and his focus on supporting the most vulnerable, including young people, suggests a moderate level of support for LGBTQ+ policies."
+                    "explanation": "Cardinal Fern\u00e1ndez Artime has not publicly expressed any anti-LGBTQ+ sentiments, and his focus on supporting the most vulnerable, including young people, suggests a moderate level of support for LGBTQ+ policies."
                 },
                 "environmentalism": {
                     "rating": 4,
-                    "explanation": "Cardinal Fernández Artime has not publicly expressed any anti-environmentalist sentiments, and his focus on supporting the most vulnerable, including young people, suggests a moderate level of support for environmentalism."
+                    "explanation": "Cardinal Fern\u00e1ndez Artime has not publicly expressed any anti-environmentalist sentiments, and his focus on supporting the most vulnerable, including young people, suggests a moderate level of support for environmentalism."
                 }
             }
         }
     },
     {
-        "name": "Cardinal Filipe Neri Ferrão",
+        "name": "Cardinal Filipe Neri Ferr\u00e3o",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/filipe-neri-antonio-sebastiao-do-rosario-ferrao/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Filipe-Neri-Ferrao-copy-e1734276645843-295x300.jpeg",
         "voting_status": "Voting",
@@ -2952,49 +2820,49 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Cardinal Ferrão is not strongly conservative, he has shown a moderate level of conservatism in his theological stance. He has emphasized the importance of traditional Catholic teachings and has been critical of radical religious relativism."
+                "explanation": "While Cardinal Ferr\u00e3o is not strongly conservative, he has shown a moderate level of conservatism in his theological stance. He has emphasized the importance of traditional Catholic teachings and has been critical of radical religious relativism."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Ferrão has shown a moderate level of reform leaning, particularly in his emphasis on interreligious dialogue and social justice. He has also been critical of extreme poverty and has supported initiatives to assist migrants and refugees."
+                "explanation": "Cardinal Ferr\u00e3o has shown a moderate level of reform leaning, particularly in his emphasis on interreligious dialogue and social justice. He has also been critical of extreme poverty and has supported initiatives to assist migrants and refugees."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "Cardinal Ferrão has not explicitly stated his position on LGBTQ+ policies, but his moderate theological stance suggests that he may not be strongly opposed to LGBTQ+ rights. However, he has not shown strong support for LGBTQ+ issues either."
+                "explanation": "Cardinal Ferr\u00e3o has not explicitly stated his position on LGBTQ+ policies, but his moderate theological stance suggests that he may not be strongly opposed to LGBTQ+ rights. However, he has not shown strong support for LGBTQ+ issues either."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "5",
                 "label": "Strongly Progressive/Supports",
-                "explanation": "Cardinal Ferrão has shown strong support for environmentalism, particularly in his emphasis on climate change and his involvement in initiatives to promote sustainable development. He has also been critical of those who deny the reality of climate change."
+                "explanation": "Cardinal Ferr\u00e3o has shown strong support for environmentalism, particularly in his emphasis on climate change and his involvement in initiatives to promote sustainable development. He has also been critical of those who deny the reality of climate change."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 2,
-                    "explanation": "While Cardinal Ferrão is not strongly conservative, he has shown a moderate level of conservatism in his theological stance. He has emphasized the importance of traditional Catholic teachings and has been critical of radical religious relativism."
+                    "explanation": "While Cardinal Ferr\u00e3o is not strongly conservative, he has shown a moderate level of conservatism in his theological stance. He has emphasized the importance of traditional Catholic teachings and has been critical of radical religious relativism."
                 },
                 "reform_leaning": {
                     "rating": 4,
-                    "explanation": "Cardinal Ferrão has shown a moderate level of reform leaning, particularly in his emphasis on interreligious dialogue and social justice. He has also been critical of extreme poverty and has supported initiatives to assist migrants and refugees."
+                    "explanation": "Cardinal Ferr\u00e3o has shown a moderate level of reform leaning, particularly in his emphasis on interreligious dialogue and social justice. He has also been critical of extreme poverty and has supported initiatives to assist migrants and refugees."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 2,
-                    "explanation": "Cardinal Ferrão has not explicitly stated his position on LGBTQ+ policies, but his moderate theological stance suggests that he may not be strongly opposed to LGBTQ+ rights. However, he has not shown strong support for LGBTQ+ issues either."
+                    "explanation": "Cardinal Ferr\u00e3o has not explicitly stated his position on LGBTQ+ policies, but his moderate theological stance suggests that he may not be strongly opposed to LGBTQ+ rights. However, he has not shown strong support for LGBTQ+ issues either."
                 },
                 "environmentalism": {
                     "rating": 5,
-                    "explanation": "Cardinal Ferrão has shown strong support for environmentalism, particularly in his emphasis on climate change and his involvement in initiatives to promote sustainable development. He has also been critical of those who deny the reality of climate change."
+                    "explanation": "Cardinal Ferr\u00e3o has shown strong support for environmentalism, particularly in his emphasis on climate change and his involvement in initiatives to promote sustainable development. He has also been critical of those who deny the reality of climate change."
                 }
             }
         }
@@ -3011,64 +2879,16 @@
         "position": "Curial",
         "attributes": [
             {
-                "issue_title": "Ordaining Female Deacons",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Vatican-China Secret Accords",
                 "subtitle": "Cardinal Filoni on Vatican-China Secret Accords",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Filoni on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Filoni on Promoting a \u201cSynodal Church\u201d",
                 "value": "3",
                 "label": "Ambiguous"
-            },
-            {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -3249,7 +3069,7 @@
         }
     },
     {
-        "name": "Cardinal Juan de la Caridad García Rodríguez",
+        "name": "Cardinal Juan de la Caridad Garc\u00eda Rodr\u00edguez",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/juan-de-la-caridad-garcia-rodriguez/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-GARCIA-RODRIGUEZ-Photo-by-Edward-Pentin-300x289.jpg",
         "voting_status": "Voting",
@@ -3264,49 +3084,49 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Cardinal García Rodríguez has been known for his commitment to social justice and outreach to the poor, his theological stance appears to be moderately conservative. He has not publicly spoken out against traditional Catholic teachings, and his focus on evangelization and catechesis suggests a more traditional approach to theology."
+                "explanation": "While Cardinal Garc\u00eda Rodr\u00edguez has been known for his commitment to social justice and outreach to the poor, his theological stance appears to be moderately conservative. He has not publicly spoken out against traditional Catholic teachings, and his focus on evangelization and catechesis suggests a more traditional approach to theology."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "However, Cardinal García Rodríguez has also shown a willingness to adapt to changing circumstances and has been praised for his innovative approach to catechesis. His emphasis on involving grandparents in teaching Catholic principles to their grandchildren suggests a more progressive approach to theology, particularly in the context of a society where religious practice had been discouraged for decades."
+                "explanation": "However, Cardinal Garc\u00eda Rodr\u00edguez has also shown a willingness to adapt to changing circumstances and has been praised for his innovative approach to catechesis. His emphasis on involving grandparents in teaching Catholic principles to their grandchildren suggests a more progressive approach to theology, particularly in the context of a society where religious practice had been discouraged for decades."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "As a Catholic cardinal, Cardinal García Rodríguez is likely to hold a conservative stance on LGBTQ+ policies. While he has not publicly spoken out against same-sex marriage or other LGBTQ+ issues, his commitment to traditional Catholic teachings suggests that he may not support progressive policies on these issues."
+                "explanation": "As a Catholic cardinal, Cardinal Garc\u00eda Rodr\u00edguez is likely to hold a conservative stance on LGBTQ+ policies. While he has not publicly spoken out against same-sex marriage or other LGBTQ+ issues, his commitment to traditional Catholic teachings suggests that he may not support progressive policies on these issues."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal García Rodríguez has not publicly spoken out on environmental issues, but his focus on social justice and his commitment to serving the poor and marginalized suggests that he may be supportive of environmental causes. His experience in helping Cubans during natural disasters, such as Hurricane Ike in 2008, also suggests that he may be aware of the importance of environmental protection."
+                "explanation": "Cardinal Garc\u00eda Rodr\u00edguez has not publicly spoken out on environmental issues, but his focus on social justice and his commitment to serving the poor and marginalized suggests that he may be supportive of environmental causes. His experience in helping Cubans during natural disasters, such as Hurricane Ike in 2008, also suggests that he may be aware of the importance of environmental protection."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 2,
-                    "explanation": "While Cardinal García Rodríguez has been known for his commitment to social justice and outreach to the poor, his theological stance appears to be moderately conservative. He has not publicly spoken out against traditional Catholic teachings, and his focus on evangelization and catechesis suggests a more traditional approach to theology."
+                    "explanation": "While Cardinal Garc\u00eda Rodr\u00edguez has been known for his commitment to social justice and outreach to the poor, his theological stance appears to be moderately conservative. He has not publicly spoken out against traditional Catholic teachings, and his focus on evangelization and catechesis suggests a more traditional approach to theology."
                 },
                 "reform_leaning": {
                     "rating": 4,
-                    "explanation": "However, Cardinal García Rodríguez has also shown a willingness to adapt to changing circumstances and has been praised for his innovative approach to catechesis. His emphasis on involving grandparents in teaching Catholic principles to their grandchildren suggests a more progressive approach to theology, particularly in the context of a society where religious practice had been discouraged for decades."
+                    "explanation": "However, Cardinal Garc\u00eda Rodr\u00edguez has also shown a willingness to adapt to changing circumstances and has been praised for his innovative approach to catechesis. His emphasis on involving grandparents in teaching Catholic principles to their grandchildren suggests a more progressive approach to theology, particularly in the context of a society where religious practice had been discouraged for decades."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 2,
-                    "explanation": "As a Catholic cardinal, Cardinal García Rodríguez is likely to hold a conservative stance on LGBTQ+ policies. While he has not publicly spoken out against same-sex marriage or other LGBTQ+ issues, his commitment to traditional Catholic teachings suggests that he may not support progressive policies on these issues."
+                    "explanation": "As a Catholic cardinal, Cardinal Garc\u00eda Rodr\u00edguez is likely to hold a conservative stance on LGBTQ+ policies. While he has not publicly spoken out against same-sex marriage or other LGBTQ+ issues, his commitment to traditional Catholic teachings suggests that he may not support progressive policies on these issues."
                 },
                 "environmentalism": {
                     "rating": 4,
-                    "explanation": "Cardinal García Rodríguez has not publicly spoken out on environmental issues, but his focus on social justice and his commitment to serving the poor and marginalized suggests that he may be supportive of environmental causes. His experience in helping Cubans during natural disasters, such as Hurricane Ike in 2008, also suggests that he may be aware of the importance of environmental protection."
+                    "explanation": "Cardinal Garc\u00eda Rodr\u00edguez has not publicly spoken out on environmental issues, but his focus on social justice and his commitment to serving the poor and marginalized suggests that he may be supportive of environmental causes. His experience in helping Cubans during natural disasters, such as Hurricane Ike in 2008, also suggests that he may be aware of the importance of environmental protection."
                 }
             }
         }
@@ -3323,22 +3143,10 @@
         "position": "Diocesan",
         "attributes": [
             {
-                "issue_title": "Ordaining Female Deacons",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Blessing Same-Sex Couples",
                 "subtitle": "Cardinal Goh on Blessing Same-Sex Couples",
                 "value": "2",
                 "label": "Against"
-            },
-            {
-                "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
@@ -3353,8 +3161,8 @@
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Goh on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Goh on Promoting a \u201cSynodal Church\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -3365,22 +3173,10 @@
                 "label": "Favors"
             },
             {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Goh on Communion for the Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Goh on Communion for the Divorced & \u201cRemarried\u201d",
                 "value": "3",
                 "label": "Ambiguous"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -3515,60 +3311,6 @@
                 "label": "Favors"
             },
             {
-                "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Theological Conservatism",
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
@@ -3694,66 +3436,6 @@
         "continent": "Europe",
         "position": "Curial",
         "attributes": [
-            {
-                "issue_title": "Ordaining Female Deacons",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
             {
                 "issue_title": "Theological Conservatism",
                 "subtitle": "Level of adherence to traditional theological positions",
@@ -3911,8 +3593,8 @@
                 "label": "Favors"
             },
             {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Hollerich on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Hollerich on Promoting a \u201cSynodal Church\u201d",
                 "value": "5",
                 "label": "Strongly Favors"
             },
@@ -3929,14 +3611,14 @@
                 "label": "Favors"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Hollerich on Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Hollerich on Communion for Divorced & \u201cRemarried\u201d",
                 "value": "4",
                 "label": "Favors"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Hollerich on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Hollerich on German \u201cSynodal Way\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -4154,37 +3836,19 @@
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Koch on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Koch on Promoting a \u201cSynodal Church\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
                 "subtitle": "Cardinal Koch on Communion for Divorced and Remarried Catholics",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
                 "subtitle": "Cardinal Koch on the German Synodal Way",
                 "value": "1",
                 "label": "Strongly Against"
@@ -4316,66 +3980,6 @@
         "position": "Curial",
         "attributes": [
             {
-                "issue_title": "Ordaining Female Deacons",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Theological Conservatism",
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
@@ -4491,7 +4095,7 @@
         }
     },
     {
-        "name": "Cardinal Gérald Cyprien Lacroix",
+        "name": "Cardinal G\u00e9rald Cyprien Lacroix",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/gerald-cyprien-lacroix/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Lacroix-e1733763476911-300x283.jpeg",
         "voting_status": "Voting",
@@ -4743,7 +4347,7 @@
         }
     },
     {
-        "name": "Cardinal Cristóbal López Romero",
+        "name": "Cardinal Crist\u00f3bal L\u00f3pez Romero",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/cristobal-lopez-romero/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Cristobal-Lopez-Romero-Photo-by-Edward-Pentin-e1733133313589-292x300.jpg",
         "voting_status": "Voting",
@@ -4758,49 +4362,49 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Cardinal López Romero has been a strong supporter of the Synod on Synodality, his emphasis on fraternity, joint work, and search for the common good suggests a more moderate approach to theological issues. However, his statement that those who disagree with synod decisions are 'morally obligated' to support them could be seen as somewhat conservative."
+                "explanation": "While Cardinal L\u00f3pez Romero has been a strong supporter of the Synod on Synodality, his emphasis on fraternity, joint work, and search for the common good suggests a more moderate approach to theological issues. However, his statement that those who disagree with synod decisions are 'morally obligated' to support them could be seen as somewhat conservative."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal López Romero's commitment to interfaith dialogue, his support for the Synod on Synodality, and his emphasis on the importance of listening to others and seeking the common good all suggest a reform-leaning approach to theological issues."
+                "explanation": "Cardinal L\u00f3pez Romero's commitment to interfaith dialogue, his support for the Synod on Synodality, and his emphasis on the importance of listening to others and seeking the common good all suggest a reform-leaning approach to theological issues."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "3",
                 "label": "Neutral/Balanced",
-                "explanation": "There is no explicit mention of LGBTQ+ policies in Cardinal López Romero's profile, so it is difficult to determine his stance. However, his focus on issues such as migration, poverty, and economic inequality suggests that he may be more open to progressive views on social justice issues."
+                "explanation": "There is no explicit mention of LGBTQ+ policies in Cardinal L\u00f3pez Romero's profile, so it is difficult to determine his stance. However, his focus on issues such as migration, poverty, and economic inequality suggests that he may be more open to progressive views on social justice issues."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal López Romero's recognition of climate change as a root cause of migration and his emphasis on the need to address poverty, wars, famines, and economic inequality all suggest a strong commitment to environmentalism and social justice."
+                "explanation": "Cardinal L\u00f3pez Romero's recognition of climate change as a root cause of migration and his emphasis on the need to address poverty, wars, famines, and economic inequality all suggest a strong commitment to environmentalism and social justice."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 2,
-                    "explanation": "While Cardinal López Romero has been a strong supporter of the Synod on Synodality, his emphasis on fraternity, joint work, and search for the common good suggests a more moderate approach to theological issues. However, his statement that those who disagree with synod decisions are 'morally obligated' to support them could be seen as somewhat conservative."
+                    "explanation": "While Cardinal L\u00f3pez Romero has been a strong supporter of the Synod on Synodality, his emphasis on fraternity, joint work, and search for the common good suggests a more moderate approach to theological issues. However, his statement that those who disagree with synod decisions are 'morally obligated' to support them could be seen as somewhat conservative."
                 },
                 "reform_leaning": {
                     "rating": 4,
-                    "explanation": "Cardinal López Romero's commitment to interfaith dialogue, his support for the Synod on Synodality, and his emphasis on the importance of listening to others and seeking the common good all suggest a reform-leaning approach to theological issues."
+                    "explanation": "Cardinal L\u00f3pez Romero's commitment to interfaith dialogue, his support for the Synod on Synodality, and his emphasis on the importance of listening to others and seeking the common good all suggest a reform-leaning approach to theological issues."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 3,
-                    "explanation": "There is no explicit mention of LGBTQ+ policies in Cardinal López Romero's profile, so it is difficult to determine his stance. However, his focus on issues such as migration, poverty, and economic inequality suggests that he may be more open to progressive views on social justice issues."
+                    "explanation": "There is no explicit mention of LGBTQ+ policies in Cardinal L\u00f3pez Romero's profile, so it is difficult to determine his stance. However, his focus on issues such as migration, poverty, and economic inequality suggests that he may be more open to progressive views on social justice issues."
                 },
                 "environmentalism": {
                     "rating": 4,
-                    "explanation": "Cardinal López Romero's recognition of climate change as a root cause of migration and his emphasis on the need to address poverty, wars, famines, and economic inequality all suggest a strong commitment to environmentalism and social justice."
+                    "explanation": "Cardinal L\u00f3pez Romero's recognition of climate change as a root cause of migration and his emphasis on the need to address poverty, wars, famines, and economic inequality all suggest a strong commitment to environmentalism and social justice."
                 }
             }
         }
@@ -5121,7 +4725,7 @@
         }
     },
     {
-        "name": "Cardinal Adalberto Martínez Flores",
+        "name": "Cardinal Adalberto Mart\u00ednez Flores",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/adalberto-martinez-flores/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Adalberto-Martinez-Flores-e1733965114914-267x300.jpg",
         "voting_status": "Voting",
@@ -5136,7 +4740,7 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Cardinal Martínez Flores has not explicitly spoken about theological issues, his strong condemnation of abortion and support for the synodal process, which emphasizes unity and communion, suggest a moderate conservative stance."
+                "explanation": "While Cardinal Mart\u00ednez Flores has not explicitly spoken about theological issues, his strong condemnation of abortion and support for the synodal process, which emphasizes unity and communion, suggest a moderate conservative stance."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
@@ -5164,7 +4768,7 @@
             "theological_stance": {
                 "conservative": {
                     "rating": 2,
-                    "explanation": "While Cardinal Martínez Flores has not explicitly spoken about theological issues, his strong condemnation of abortion and support for the synodal process, which emphasizes unity and communion, suggest a moderate conservative stance."
+                    "explanation": "While Cardinal Mart\u00ednez Flores has not explicitly spoken about theological issues, his strong condemnation of abortion and support for the synodal process, which emphasizes unity and communion, suggest a moderate conservative stance."
                 },
                 "reform_leaning": {
                     "rating": 4,
@@ -5184,7 +4788,7 @@
         }
     },
     {
-        "name": "Cardinal António Augusto dos Santos Marto",
+        "name": "Cardinal Ant\u00f3nio Augusto dos Santos Marto",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/antonio-augusto-dos-santos-marto/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Antonio-Augusto-dos-Santos-Marto-Photo-by-Edward-Pentin-1-e1733154771813-300x283.jpg",
         "voting_status": "Voting",
@@ -5762,22 +5366,10 @@
         "position": "Emeritus",
         "attributes": [
             {
-                "issue_title": "Ordaining Female Deacons",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Blessing Same-Sex Couples",
                 "subtitle": "Cardinal Nycz on Blessing Same-Sex Couples",
                 "value": "3",
                 "label": "Ambiguous"
-            },
-            {
-                "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
@@ -5786,14 +5378,8 @@
                 "label": "Against"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Nycz on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Nycz on Promoting a \u201cSynodal Church\u201d",
                 "value": "4",
                 "label": "Favors"
             },
@@ -5804,20 +5390,14 @@
                 "label": "Against"
             },
             {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Nycz on Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Nycz on Communion for Divorced & \u201cRemarried\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Nycz on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Nycz on German \u201cSynodal Way\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -5874,7 +5454,7 @@
         }
     },
     {
-        "name": "Cardinal Dieudonné Nzapalainga",
+        "name": "Cardinal Dieudonn\u00e9 Nzapalainga",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/dieudonne-nzapalainga/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/07/Dieudonne-Photo-by-Edward-Pentin-300x300.jpg",
         "voting_status": "Voting",
@@ -5885,64 +5465,16 @@
         "position": "Diocesan",
         "attributes": [
             {
-                "issue_title": "Ordaining Female Deacons",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Making Priestly Celibacy Optional",
                 "subtitle": "Cardinal Nzapalainga on Making Priestly Celibacy Optional",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Nzapalainga on Promoting a “Synodal” Church",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Nzapalainga on Promoting a \u201cSynodal\u201d Church",
                 "value": "4",
                 "label": "Favors"
-            },
-            {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -6060,7 +5592,7 @@
         }
     },
     {
-        "name": "Cardinal Juan José Omella Omella",
+        "name": "Cardinal Juan Jos\u00e9 Omella Omella",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/juan-jose-omella-omella/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Omella-Omella-Foto-Pere-Virgili-info@perevirgili.com_-scaled-e1733237268940-295x300.jpeg",
         "voting_status": "Voting",
@@ -6186,7 +5718,7 @@
         }
     },
     {
-        "name": "Cardinal Nakellentuba Philippe Ouédraogo",
+        "name": "Cardinal Nakellentuba Philippe Ou\u00e9draogo",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/nakellentuba-philippe-ouedraogo/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Nakellentuba-Ouedraogo-Photo-by-Edward-Pentin-e1733318408807-300x254.jpeg",
         "voting_status": "Voting",
@@ -6290,8 +5822,8 @@
                 "label": "Strongly Favors"
             },
             {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Parolin on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Parolin on Promoting a \u201cSynodal Church\u201d",
                 "value": "5",
                 "label": "Strongly Favors"
             },
@@ -6308,14 +5840,14 @@
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Parolin on Communion for Divorced and “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Parolin on Communion for Divorced and \u201cRemarried\u201d",
                 "value": "5",
                 "label": "Strongly Favors"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Parolin on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Parolin on German \u201cSynodal Way\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -6515,32 +6047,14 @@
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
                 "subtitle": "Cardinal Pizzaballa on Restricting the Vetus Ordo (Old Latin Mass)",
                 "value": "2",
                 "label": "Against"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Pizzaballa on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Pizzaballa on Promoting a \u201cSynodal Church\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -6551,20 +6065,8 @@
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Pizzaballa on the German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Pizzaballa on the German \u201cSynodal Way\u201d",
                 "value": "2",
                 "label": "Against"
             },
@@ -6650,7 +6152,7 @@
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "Cardinal Poli opposed same-sex 'marriage' in Argentina and has a respectful but distant relationship with the administration of Argentine President Cristina Fernández de Kirchner, indicating a moderately conservative stance on LGBTQ+ policies."
+                "explanation": "Cardinal Poli opposed same-sex 'marriage' in Argentina and has a respectful but distant relationship with the administration of Argentine President Cristina Fern\u00e1ndez de Kirchner, indicating a moderately conservative stance on LGBTQ+ policies."
             },
             {
                 "issue_title": "Environmentalism",
@@ -6674,7 +6176,7 @@
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 2,
-                    "explanation": "Cardinal Poli opposed same-sex 'marriage' in Argentina and has a respectful but distant relationship with the administration of Argentine President Cristina Fernández de Kirchner, indicating a moderately conservative stance on LGBTQ+ policies."
+                    "explanation": "Cardinal Poli opposed same-sex 'marriage' in Argentina and has a respectful but distant relationship with the administration of Argentine President Cristina Fern\u00e1ndez de Kirchner, indicating a moderately conservative stance on LGBTQ+ policies."
                 },
                 "environmentalism": {
                     "rating": 3,
@@ -6810,7 +6312,7 @@
         }
     },
     {
-        "name": "Cardinal Vinko Puljić",
+        "name": "Cardinal Vinko Pulji\u0107",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/vinko-puljic/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/07/Cardinal-Vilko-Piljic-e1733271117548-300x280.jpeg",
         "voting_status": "Voting",
@@ -6825,49 +6327,49 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Puljić's views on issues such as same-sex marriage, blessing of same-sex couples, and the German Synodal Way suggest a strong conservative stance. He has also emphasized the need to return to the 'original Gospel' and criticized secularism and relativism."
+                "explanation": "Cardinal Pulji\u0107's views on issues such as same-sex marriage, blessing of same-sex couples, and the German Synodal Way suggest a strong conservative stance. He has also emphasized the need to return to the 'original Gospel' and criticized secularism and relativism."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "1",
                 "label": "Strongly Conservative/Against",
-                "explanation": "Cardinal Puljić's opposition to reform efforts and his emphasis on traditional Church teachings suggest a strong resistance to reform. He has also been critical of the international community's perceived favoritism towards Muslims, which may indicate a lack of openness to diversity and inclusivity."
+                "explanation": "Cardinal Pulji\u0107's opposition to reform efforts and his emphasis on traditional Church teachings suggest a strong resistance to reform. He has also been critical of the international community's perceived favoritism towards Muslims, which may indicate a lack of openness to diversity and inclusivity."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "1",
                 "label": "Strongly Conservative/Against",
-                "explanation": "Cardinal Puljić has strongly opposed the blessing of same-sex couples and views proposals to bless same-sex couples as 'exotic ideas' that are alien to the Church's teachings. This suggests a strongly conservative stance on LGBTQ+ policies."
+                "explanation": "Cardinal Pulji\u0107 has strongly opposed the blessing of same-sex couples and views proposals to bless same-sex couples as 'exotic ideas' that are alien to the Church's teachings. This suggests a strongly conservative stance on LGBTQ+ policies."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "3",
                 "label": "Neutral/Balanced",
-                "explanation": "There is no explicit mention of environmentalism in Cardinal Puljić's profile, so it is difficult to determine his stance. However, his focus on social justice and human rights may suggest a neutral or balanced approach to environmental issues."
+                "explanation": "There is no explicit mention of environmentalism in Cardinal Pulji\u0107's profile, so it is difficult to determine his stance. However, his focus on social justice and human rights may suggest a neutral or balanced approach to environmental issues."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 4,
-                    "explanation": "Cardinal Puljić's views on issues such as same-sex marriage, blessing of same-sex couples, and the German Synodal Way suggest a strong conservative stance. He has also emphasized the need to return to the 'original Gospel' and criticized secularism and relativism."
+                    "explanation": "Cardinal Pulji\u0107's views on issues such as same-sex marriage, blessing of same-sex couples, and the German Synodal Way suggest a strong conservative stance. He has also emphasized the need to return to the 'original Gospel' and criticized secularism and relativism."
                 },
                 "reform_leaning": {
                     "rating": 1,
-                    "explanation": "Cardinal Puljić's opposition to reform efforts and his emphasis on traditional Church teachings suggest a strong resistance to reform. He has also been critical of the international community's perceived favoritism towards Muslims, which may indicate a lack of openness to diversity and inclusivity."
+                    "explanation": "Cardinal Pulji\u0107's opposition to reform efforts and his emphasis on traditional Church teachings suggest a strong resistance to reform. He has also been critical of the international community's perceived favoritism towards Muslims, which may indicate a lack of openness to diversity and inclusivity."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 1,
-                    "explanation": "Cardinal Puljić has strongly opposed the blessing of same-sex couples and views proposals to bless same-sex couples as 'exotic ideas' that are alien to the Church's teachings. This suggests a strongly conservative stance on LGBTQ+ policies."
+                    "explanation": "Cardinal Pulji\u0107 has strongly opposed the blessing of same-sex couples and views proposals to bless same-sex couples as 'exotic ideas' that are alien to the Church's teachings. This suggests a strongly conservative stance on LGBTQ+ policies."
                 },
                 "environmentalism": {
                     "rating": 3,
-                    "explanation": "There is no explicit mention of environmentalism in Cardinal Puljić's profile, so it is difficult to determine his stance. However, his focus on social justice and human rights may suggest a neutral or balanced approach to environmental issues."
+                    "explanation": "There is no explicit mention of environmentalism in Cardinal Pulji\u0107's profile, so it is difficult to determine his stance. However, his focus on social justice and human rights may suggest a neutral or balanced approach to environmental issues."
                 }
             }
         }
@@ -6936,7 +6438,7 @@
         }
     },
     {
-        "name": "Cardinal Álvaro Leonel Ramazzini Imeri",
+        "name": "Cardinal \u00c1lvaro Leonel Ramazzini Imeri",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/alvaro-leonel-ramazzini-imeri/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Imeri-Photo-by-Edward-Pentin-e1733272358934-300x300.jpg",
         "voting_status": "Voting",
@@ -7034,14 +6536,8 @@
                 "label": "Against"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Ranjith on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Ranjith on Promoting a \u201cSynodal Church\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -7058,14 +6554,14 @@
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Ranjith on Communion for Divorced and “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Ranjith on Communion for Divorced and \u201cRemarried\u201d",
                 "value": "1",
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Ranjith on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Ranjith on German \u201cSynodal Way\u201d",
                 "value": "1",
                 "label": "Strongly Against"
             },
@@ -7311,7 +6807,7 @@
         }
     },
     {
-        "name": "Cardinal Luis José Rueda Aparicio",
+        "name": "Cardinal Luis Jos\u00e9 Rueda Aparicio",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/luis-jose-rueda-aparicio/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Aparicio-Photo-from-Archdiocese-of-Bucaramanga-e1733306106840-300x286.jpg",
         "voting_status": "Voting",
@@ -7374,7 +6870,7 @@
         }
     },
     {
-        "name": "Cardinal Stanisław Ryłko",
+        "name": "Cardinal Stanis\u0142aw Ry\u0142ko",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/stanislaw-rylko/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/07/Cardinal-Rylko-Polish-Media-e1733422651674-283x300.jpg",
         "voting_status": "Voting",
@@ -7437,7 +6933,7 @@
         }
     },
     {
-        "name": "Cardinal Grzegorz Ryś",
+        "name": "Cardinal Grzegorz Ry\u015b",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/grzegorz-rys/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Grzegorz-Rys-dpa-picture-alliance-Alamy-e1733992339317-300x282.jpg",
         "voting_status": "Voting",
@@ -7449,61 +6945,49 @@
         "attributes": [
             {
                 "issue_title": "Ordaining Female Deacons",
-                "subtitle": "Cardinal Ryś on Ordaining Female Deacons",
+                "subtitle": "Cardinal Ry\u015b on Ordaining Female Deacons",
                 "value": "2",
                 "label": "Against"
             },
             {
                 "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "Cardinal Ryś on Blessing Same-Sex Couples",
+                "subtitle": "Cardinal Ry\u015b on Blessing Same-Sex Couples",
                 "value": "2",
                 "label": "Against"
             },
             {
                 "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "Cardinal Ryś on Making Priestly Celibacy Optional",
+                "subtitle": "Cardinal Ry\u015b on Making Priestly Celibacy Optional",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
                 "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "Cardinal Ryś on Restricting the Vetus Ordo (Old Latin Mass)",
+                "subtitle": "Cardinal Ry\u015b on Restricting the Vetus Ordo (Old Latin Mass)",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Ryś on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Ry\u015b on Promoting a \u201cSynodal Church\u201d",
                 "value": "4",
                 "label": "Favors"
             },
             {
                 "issue_title": "Focusing on Climate Change",
-                "subtitle": "Cardinal Ryś on Focusing on Climate Change",
+                "subtitle": "Cardinal Ry\u015b on Focusing on Climate Change",
                 "value": "4",
                 "label": "Favors"
             },
             {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Ryś on Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Ry\u015b on Communion for Divorced & \u201cRemarried\u201d",
                 "value": "4",
                 "label": "Favors"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Ryś on the German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Ry\u015b on the German \u201cSynodal Way\u201d",
                 "value": "1",
                 "label": "Strongly Against"
             },
@@ -7512,55 +6996,55 @@
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "Cardinal Ryś is not strongly conservative, but he does hold some conservative views, such as opposing legalized abortion and euthanasia, and defending the presence of the cross in public spaces. He also has an orthodox belief in the Eucharist and the authenticity and historicity of Scripture."
+                "explanation": "Cardinal Ry\u015b is not strongly conservative, but he does hold some conservative views, such as opposing legalized abortion and euthanasia, and defending the presence of the cross in public spaces. He also has an orthodox belief in the Eucharist and the authenticity and historicity of Scripture."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Ryś is open to dialogue and willing to engage in reform, as seen in his support for the Church's new synodal way and his emphasis on interreligious dialogue and ecumenism. He also has a critical approach to the Church's involvement in politics and emphasizes the need for the Church's conversion regardless of the political situation."
+                "explanation": "Cardinal Ry\u015b is open to dialogue and willing to engage in reform, as seen in his support for the Church's new synodal way and his emphasis on interreligious dialogue and ecumenism. He also has a critical approach to the Church's involvement in politics and emphasizes the need for the Church's conversion regardless of the political situation."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "Cardinal Ryś does not have a clear stance on LGBTQ+ policies, but he is not strongly opposed to them either. He is more focused on interfaith dialogue and ecumenism than on specific social issues."
+                "explanation": "Cardinal Ry\u015b does not have a clear stance on LGBTQ+ policies, but he is not strongly opposed to them either. He is more focused on interfaith dialogue and ecumenism than on specific social issues."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Ryś does not have a specific stance on environmentalism, but as a Church historian, he may be more inclined to emphasize the importance of preserving creation as a gift from God. His focus on interfaith dialogue and ecumenism may also lead him to prioritize environmental issues that are relevant to his work in these areas."
+                "explanation": "Cardinal Ry\u015b does not have a specific stance on environmentalism, but as a Church historian, he may be more inclined to emphasize the importance of preserving creation as a gift from God. His focus on interfaith dialogue and ecumenism may also lead him to prioritize environmental issues that are relevant to his work in these areas."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 2,
-                    "explanation": "Cardinal Ryś is not strongly conservative, but he does hold some conservative views, such as opposing legalized abortion and euthanasia, and defending the presence of the cross in public spaces. He also has an orthodox belief in the Eucharist and the authenticity and historicity of Scripture."
+                    "explanation": "Cardinal Ry\u015b is not strongly conservative, but he does hold some conservative views, such as opposing legalized abortion and euthanasia, and defending the presence of the cross in public spaces. He also has an orthodox belief in the Eucharist and the authenticity and historicity of Scripture."
                 },
                 "reform_leaning": {
                     "rating": 4,
-                    "explanation": "Cardinal Ryś is open to dialogue and willing to engage in reform, as seen in his support for the Church's new synodal way and his emphasis on interreligious dialogue and ecumenism. He also has a critical approach to the Church's involvement in politics and emphasizes the need for the Church's conversion regardless of the political situation."
+                    "explanation": "Cardinal Ry\u015b is open to dialogue and willing to engage in reform, as seen in his support for the Church's new synodal way and his emphasis on interreligious dialogue and ecumenism. He also has a critical approach to the Church's involvement in politics and emphasizes the need for the Church's conversion regardless of the political situation."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 2,
-                    "explanation": "Cardinal Ryś does not have a clear stance on LGBTQ+ policies, but he is not strongly opposed to them either. He is more focused on interfaith dialogue and ecumenism than on specific social issues."
+                    "explanation": "Cardinal Ry\u015b does not have a clear stance on LGBTQ+ policies, but he is not strongly opposed to them either. He is more focused on interfaith dialogue and ecumenism than on specific social issues."
                 },
                 "environmentalism": {
                     "rating": 4,
-                    "explanation": "Cardinal Ryś does not have a specific stance on environmentalism, but as a Church historian, he may be more inclined to emphasize the importance of preserving creation as a gift from God. His focus on interfaith dialogue and ecumenism may also lead him to prioritize environmental issues that are relevant to his work in these areas."
+                    "explanation": "Cardinal Ry\u015b does not have a specific stance on environmentalism, but as a Church historian, he may be more inclined to emphasize the importance of preserving creation as a gift from God. His focus on interfaith dialogue and ecumenism may also lead him to prioritize environmental issues that are relevant to his work in these areas."
                 }
             }
         }
     },
     {
-        "name": "Cardinal Louis Raphaël Sako",
+        "name": "Cardinal Louis Rapha\u00ebl Sako",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/louis-raphael-sako/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Louis-Raphael-Sako-ZUMA-Press-Inc.-Alamy-e1733992497778-300x295.jpg",
         "voting_status": "Voting",
@@ -7658,14 +7142,8 @@
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Sarah on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Sarah on Promoting a \u201cSynodal Church\u201d",
                 "value": "1",
                 "label": "Strongly Against"
             },
@@ -7682,14 +7160,14 @@
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Sarah on Communion for Divorced and “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Sarah on Communion for Divorced and \u201cRemarried\u201d",
                 "value": "1",
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Sarah on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Sarah on German \u201cSynodal Way\u201d",
                 "value": "1",
                 "label": "Strongly Against"
             },
@@ -8072,46 +7550,16 @@
         "position": "Diocesan",
         "attributes": [
             {
-                "issue_title": "Ordaining Female Deacons",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Blessing Same-Sex Couples",
                 "subtitle": "Cardinal Sturla on Blessing Same-Sex Couples",
                 "value": "1",
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Making Priestly Celibacy Optional",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Sturla on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Sturla on Promoting a \u201cSynodal Church\u201d",
                 "value": "2",
                 "label": "Against"
-            },
-            {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Reassessing Humanae Vitae",
@@ -8120,14 +7568,14 @@
                 "label": "Strongly Against"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Sturla on Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Sturla on Communion for Divorced & \u201cRemarried\u201d",
                 "value": "2",
                 "label": "Against"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Sturla on German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Sturla on German \u201cSynodal Way\u201d",
                 "value": "2",
                 "label": "Against"
             },
@@ -8288,8 +7736,8 @@
                 "label": "Strongly Favors"
             },
             {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Tagle on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Tagle on Promoting a \u201cSynodal Church\u201d",
                 "value": "5",
                 "label": "Strongly Favors"
             },
@@ -8306,16 +7754,10 @@
                 "label": "Favors"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Tagle on Communion for Divorced and “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Tagle on Communion for Divorced and \u201cRemarried\u201d",
                 "value": "3",
                 "label": "Ambiguous"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -8370,7 +7812,7 @@
         }
     },
     {
-        "name": "Cardinal Orani Joāo Tempesta",
+        "name": "Cardinal Orani Jo\u0101o Tempesta",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/orani-joao-tempesta/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Tempesta-Photo-by-Edward-Pentin-e1733317753686-300x260.jpeg",
         "voting_status": "Voting",
@@ -8496,7 +7938,7 @@
         }
     },
     {
-        "name": "Cardinal José Tolentino de Mendonça",
+        "name": "Cardinal Jos\u00e9 Tolentino de Mendon\u00e7a",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/jose-tolentino-de-mendonca/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/07/Mendonca-Edward-Pentin-e1733856006255-293x300.jpeg",
         "voting_status": "Voting",
@@ -8513,113 +7955,77 @@
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Making Priestly Celibacy Optional",
                 "subtitle": "Cardinal Tolentino on Making Priestly Celibacy Optional",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Tolentino on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Tolentino on Promoting a \u201cSynodal Church\u201d",
                 "value": "4",
                 "label": "Favors"
             },
             {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Tolentino on Communion for Divorced and “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Tolentino on Communion for Divorced and \u201cRemarried\u201d",
                 "value": "4",
                 "label": "Favors"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
                 "subtitle": "Level of adherence to traditional theological positions",
                 "value": "2",
                 "label": "Moderately Conservative/Against",
-                "explanation": "While Cardinal Tolentino de Mendonça is not a traditionalist, he does not strongly support conservative theological views. He has shown a willingness to engage with modern culture and has been influenced by progressive thinkers."
+                "explanation": "While Cardinal Tolentino de Mendon\u00e7a is not a traditionalist, he does not strongly support conservative theological views. He has shown a willingness to engage with modern culture and has been influenced by progressive thinkers."
             },
             {
                 "issue_title": "Reform-Leaning Theology",
                 "subtitle": "Openness to theological reforms and changes",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Tolentino de Mendonça's theological views are generally reform-leaning, as he has shown a willingness to adapt to modern culture and has been influenced by progressive thinkers. He has also been critical of traditionalist views and has advocated for a more inclusive and accepting Church."
+                "explanation": "Cardinal Tolentino de Mendon\u00e7a's theological views are generally reform-leaning, as he has shown a willingness to adapt to modern culture and has been influenced by progressive thinkers. He has also been critical of traditionalist views and has advocated for a more inclusive and accepting Church."
             },
             {
                 "issue_title": "LGBTQ+ Policies",
                 "subtitle": "Positions on LGBTQ+ inclusion and related policies",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Tolentino de Mendonça has shown a willingness to engage with LGBTQ+ issues and has been critical of traditionalist views on the matter. While he has not publicly spoken out in support of same-sex marriage or adoption, he has shown a willingness to listen to and engage with LGBTQ+ individuals and has advocated for a more inclusive and accepting Church."
+                "explanation": "Cardinal Tolentino de Mendon\u00e7a has shown a willingness to engage with LGBTQ+ issues and has been critical of traditionalist views on the matter. While he has not publicly spoken out in support of same-sex marriage or adoption, he has shown a willingness to listen to and engage with LGBTQ+ individuals and has advocated for a more inclusive and accepting Church."
             },
             {
                 "issue_title": "Environmentalism",
                 "subtitle": "Positions on environmental issues and climate change",
                 "value": "4",
                 "label": "Moderately Progressive/Supports",
-                "explanation": "Cardinal Tolentino de Mendonça has shown a strong commitment to environmental issues and has been critical of those who deny the reality of climate change. He has also advocated for a more sustainable and environmentally-friendly approach to Church teachings and practices."
+                "explanation": "Cardinal Tolentino de Mendon\u00e7a has shown a strong commitment to environmental issues and has been critical of those who deny the reality of climate change. He has also advocated for a more sustainable and environmentally-friendly approach to Church teachings and practices."
             }
         ],
         "analysis_results": {
             "theological_stance": {
                 "conservative": {
                     "rating": 2,
-                    "explanation": "While Cardinal Tolentino de Mendonça is not a traditionalist, he does not strongly support conservative theological views. He has shown a willingness to engage with modern culture and has been influenced by progressive thinkers."
+                    "explanation": "While Cardinal Tolentino de Mendon\u00e7a is not a traditionalist, he does not strongly support conservative theological views. He has shown a willingness to engage with modern culture and has been influenced by progressive thinkers."
                 },
                 "reform_leaning": {
                     "rating": 4,
-                    "explanation": "Cardinal Tolentino de Mendonça's theological views are generally reform-leaning, as he has shown a willingness to adapt to modern culture and has been influenced by progressive thinkers. He has also been critical of traditionalist views and has advocated for a more inclusive and accepting Church."
+                    "explanation": "Cardinal Tolentino de Mendon\u00e7a's theological views are generally reform-leaning, as he has shown a willingness to adapt to modern culture and has been influenced by progressive thinkers. He has also been critical of traditionalist views and has advocated for a more inclusive and accepting Church."
                 }
             },
             "issue_positions": {
                 "lgbtq_policies": {
                     "rating": 4,
-                    "explanation": "Cardinal Tolentino de Mendonça has shown a willingness to engage with LGBTQ+ issues and has been critical of traditionalist views on the matter. While he has not publicly spoken out in support of same-sex marriage or adoption, he has shown a willingness to listen to and engage with LGBTQ+ individuals and has advocated for a more inclusive and accepting Church."
+                    "explanation": "Cardinal Tolentino de Mendon\u00e7a has shown a willingness to engage with LGBTQ+ issues and has been critical of traditionalist views on the matter. While he has not publicly spoken out in support of same-sex marriage or adoption, he has shown a willingness to listen to and engage with LGBTQ+ individuals and has advocated for a more inclusive and accepting Church."
                 },
                 "environmentalism": {
                     "rating": 4,
-                    "explanation": "Cardinal Tolentino de Mendonça has shown a strong commitment to environmental issues and has been critical of those who deny the reality of climate change. He has also advocated for a more sustainable and environmentally-friendly approach to Church teachings and practices."
+                    "explanation": "Cardinal Tolentino de Mendon\u00e7a has shown a strong commitment to environmental issues and has been critical of those who deny the reality of climate change. He has also advocated for a more sustainable and environmentally-friendly approach to Church teachings and practices."
                 }
             }
         }
     },
     {
-        "name": "Cardinal Désiré Tsarahazana",
+        "name": "Cardinal D\u00e9sir\u00e9 Tsarahazana",
         "profile_url": "https://collegeofcardinalsreport.com/cardinals/desire-tsarahazana/",
         "image_url": "https://collegeofcardinalsreport.com/wp-content/uploads/2024/11/Cardinal-Desire-Tsarahazana-Photo-by-Edward-Pentin-e1733314367184-300x254.jpeg",
         "voting_status": "Voting",
@@ -8774,20 +8180,8 @@
                 "label": "Favors"
             },
             {
-                "issue_title": "Restricting the Vetus Ordo (Old Latin Mass)",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Turkson on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Turkson on Promoting a \u201cSynodal Church\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -8798,22 +8192,10 @@
                 "label": "Strongly Favors"
             },
             {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Turkson on Communion for Divorced and “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Turkson on Communion for Divorced and \u201cRemarried\u201d",
                 "value": "3",
                 "label": "Ambiguous"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -8966,14 +8348,8 @@
                 "label": "Against"
             },
             {
-                "issue_title": "Vatican-China Secret Accords",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Woelki on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Woelki on Promoting a \u201cSynodal Church\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
@@ -8990,14 +8366,14 @@
                 "label": "Against"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Woelki on Allowing Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Woelki on Allowing Communion for Divorced & \u201cRemarried\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "Cardinal Woelki on the German “Synodal Way”",
+                "issue_title": "German \u201cSynodal Way\u201d",
+                "subtitle": "Cardinal Woelki on the German \u201cSynodal Way\u201d",
                 "value": "2",
                 "label": "Against"
             },
@@ -9065,18 +8441,6 @@
         "position": "Curial",
         "attributes": [
             {
-                "issue_title": "Ordaining Female Deacons",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Blessing Same-Sex Couples",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
                 "issue_title": "Making Priestly Celibacy Optional",
                 "subtitle": "Cardinal Heung-sik on Making Priestly Celibacy Optional",
                 "value": "1",
@@ -9095,34 +8459,16 @@
                 "label": "Strongly Favors"
             },
             {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Heung-sik on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Heung-sik on Promoting a \u201cSynodal Church\u201d",
                 "value": "3",
                 "label": "Ambiguous"
             },
             {
-                "issue_title": "Focusing on Climate Change",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Reassessing Humanae Vitae",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
-            },
-            {
-                "issue_title": "Communion for Divorced & “Remarried”",
-                "subtitle": "Cardinal Heung-sik on Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
+                "subtitle": "Cardinal Heung-sik on Communion for Divorced & \u201cRemarried\u201d",
                 "value": "4",
                 "label": "Favors"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",
@@ -9281,8 +8627,8 @@
                 "label": "Strongly Favors"
             },
             {
-                "issue_title": "Promoting a “Synodal Church”",
-                "subtitle": "Cardinal Zuppi on Promoting a “Synodal Church”",
+                "issue_title": "Promoting a \u201cSynodal Church\u201d",
+                "subtitle": "Cardinal Zuppi on Promoting a \u201cSynodal Church\u201d",
                 "value": "5",
                 "label": "Strongly Favors"
             },
@@ -9299,16 +8645,10 @@
                 "label": "Favors"
             },
             {
-                "issue_title": "Communion for Divorced & “Remarried”",
+                "issue_title": "Communion for Divorced & \u201cRemarried\u201d",
                 "subtitle": "Cardinal Zuppi on Communion for Divorced and Civilly Remarried Catholics",
                 "value": "4",
                 "label": "Favors"
-            },
-            {
-                "issue_title": "German “Synodal Way”",
-                "subtitle": "No title found",
-                "value": "Unknown",
-                "label": "Unknown"
             },
             {
                 "issue_title": "Theological Conservatism",

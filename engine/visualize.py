@@ -1,10 +1,12 @@
-import numpy as np
-import psycopg2
-import pandas as pd
-from umap import UMAP
-from sklearn.cluster import KMeans
-import plotly.express as px
+import json
 import re
+
+import numpy as np
+import pandas as pd
+import plotly.express as px
+import psycopg2
+from sklearn.cluster import KMeans
+from umap import UMAP
 
 DB_PARAMS = {
     "dbname": "cardinals_db",
@@ -19,11 +21,11 @@ def fetch_vectors():
         conn = psycopg2.connect(**DB_PARAMS)
         cur = conn.cursor()
         cur.execute("""
-            SELECT name, nation, continent, attribute_vector
+            SELECT name, nation, continent, attribute_vector, attributes
             FROM cardinals
         """)
         results = cur.fetchall()
-        return pd.DataFrame(results, columns=['name', 'nation', 'continent', 'vector'])
+        return pd.DataFrame(results, columns=['name', 'nation', 'continent', 'vector', 'attributes'])
     except Exception as e:
         print(f"Database error: {e}")
         return pd.DataFrame()
@@ -62,6 +64,34 @@ def parse_vector(vector_value):
     print(f"Warning: Unexpected vector format: {type(vector_value)}, value: {vector_value}")
     return [0.0, 0.0, 0.0, 0.0]  # Default fallback
 
+def parse_attributes(attributes_json):
+    """
+    Parse attributes JSON into a more readable format for hover text.
+    
+    Args:
+        attributes_json: JSON string or JSONB from PostgreSQL
+        
+    Returns:
+        String formatted for hover display
+    """
+    try:
+        # If it's already a dict/list (PostgreSQL JSONB might be returned as dict)
+        if isinstance(attributes_json, (dict, list)):
+            attributes = attributes_json
+        else:
+            # Otherwise try to parse it as JSON string
+            attributes = json.loads(attributes_json)
+        
+        # Create formatted string of attribute information
+        attr_strings = []
+        for attr in attributes:
+            if "issue_title" in attr and "label" in attr:
+                attr_strings.append(f"{attr['issue_title']}: {attr['label']}")
+        
+        return "<br>".join(attr_strings)
+    except (json.JSONDecodeError, TypeError):
+        return "No attributes data"
+
 def visualize_3d_clusters():
     # 1. Get data from PostgreSQL
     df = fetch_vectors()
@@ -73,9 +103,14 @@ def visualize_3d_clusters():
     # Create a new column with properly parsed vectors
     df['parsed_vector'] = df['vector'].apply(parse_vector)
     
+    # Parse attributes for hover text
+    df['formatted_attributes'] = df['attributes'].apply(parse_attributes)
+    
     # Print some debug info
     print(f"Sample raw vector: {df['vector'].iloc[0]}")
     print(f"Sample parsed vector: {df['parsed_vector'].iloc[0]}")
+    print(f"Sample attributes: {df['attributes'].iloc[0]}")
+    print(f"Sample formatted attributes: {df['formatted_attributes'].iloc[0]}")
     
     # Check if vectors are valid
     vector_lengths = df['parsed_vector'].apply(len)
@@ -99,6 +134,7 @@ def visualize_3d_clusters():
         'name': df['name'],
         'nation': df['nation'],
         'continent': df['continent'],
+        'attributes': df['formatted_attributes'],
         'cluster': clusters.astype(str)  # Convert to string for better legend
     })
     
@@ -110,13 +146,24 @@ def visualize_3d_clusters():
         z='z',
         color='cluster',
         hover_name='name',
-        hover_data=['nation', 'continent'],
-        labels={'x': 'UMAP Axis 1', 'y': 'UMAP Axis 2', 'z': 'UMAP Axis 3', 'cluster': 'Cluster'},
+        hover_data={
+            'nation': True,
+            'continent': False,
+            'attributes': True,
+            'x': False,
+            'y': False,
+            'z': False,
+            'cluster': True
+        },
+        labels={
+            'x': 'UMAP Axis 1', 
+            'y': 'UMAP Axis 2', 
+            'z': 'UMAP Axis 3', 
+            'cluster': 'Cluster',
+            'attributes': 'Stance & Positions'
+        },
         title='Cardinal Theological Stance Clustering'
     )
-    
-    # 7. Enhance plot styling
-    fig.update_traces(marker=dict(size=5, opacity=0.8))
     
     return fig
 

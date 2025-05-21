@@ -14,7 +14,7 @@ DB_PARAMS = {
     "port": "5432",
 }
 
-with open("data/cardinals_with_attributes_attributes_cleaned.json", "r") as f:
+with open("data/cardinals_with_attributes_cleaned.json", "r") as f:
     cardinals_data = json.load(f)
 
 ATTRIBUTES = [
@@ -56,9 +56,36 @@ def create_vector(cardinal):
 
     return vector
 
+def extract_attributes(cardinal):
+    """
+    Extract the attributes from a cardinal's data.
+    
+    Args:
+        cardinal (dict): A dictionary containing cardinal data with 'attributes' key.
+        
+    Returns:
+        list: A list of dictionaries with issue_title and label for each attribute.
+    """
+    attributes = []
+    
+    # Extract attributes from the cardinal data
+    for attr in cardinal.get("attributes", []):
+        if "issue_title" in attr and "label" in attr:
+            attributes.append({
+                "issue_title": attr["issue_title"],
+                "label": attr["label"]
+            })
+    
+    return attributes
+
 cardinal_vectors = []
 for cardinal in cardinals_data:
     vector = create_vector(cardinal)
+    attributes = extract_attributes(cardinal)
+    
+    # Convert attributes list to JSON string for storage
+    attributes_json = json.dumps(attributes)
+    
     if len(vector) != 4:
         print(f"Warning: Invalid vector for cardinal {cardinal.get('name', 'Unknown')}: {vector}")
         continue
@@ -70,7 +97,8 @@ for cardinal in cardinals_data:
         cardinal.get('voting_status', ''),
         cardinal.get('created_by', ''),
         int(cardinal.get('age', 0)),
-        vector
+        vector,
+        attributes_json  # Add the attributes JSON string
     ))
 
 try:
@@ -89,11 +117,12 @@ try:
             voting_status TEXT,
             created_by TEXT,
             age INTEGER,
-            attribute_vector VECTOR(4)
+            attribute_vector VECTOR(4),
+            attributes JSONB  -- Store the attributes as JSONB for easier querying
         );
     """)
     insert_query = """
-        INSERT INTO cardinals (id, name, nation, continent, position, voting_status, created_by, age, attribute_vector)
+        INSERT INTO cardinals (id, name, nation, continent, position, voting_status, created_by, age, attribute_vector, attributes)
         VALUES %s
     """
     data = [(str(uuid4()), *cv) for cv in cardinal_vectors]
@@ -115,7 +144,7 @@ try:
 
         cur.execute("""
             SELECT name, nation, continent, position, voting_status, created_by, age,
-                   attribute_vector, 1 - (attribute_vector <=> %s::vector) AS similarity
+                   attribute_vector, attributes, 1 - (attribute_vector <=> %s::vector) AS similarity
             FROM cardinals
             WHERE name != %s
             ORDER BY similarity DESC
@@ -125,10 +154,22 @@ try:
         results = cur.fetchall()
         output = f"Cardinals most similar to {cardinal_name}:\n"
         for row in results:
-            name, nation, continent, position, voting_status, created_by, age, vector, similarity = row
+            name, nation, continent, position, voting_status, created_by, age, vector, attributes, similarity = row
+            
+            # Parse attributes for readable output
+            parsed_attrs = []
+            try:
+                attrs = json.loads(attributes)
+                for attr in attrs:
+                    parsed_attrs.append(f"{attr['issue_title']}: {attr['label']}")
+            except (json.JSONDecodeError, TypeError):
+                parsed_attrs = ["No attributes available"]
+            
             output += (f"- {name} (Nation: {nation}, Continent: {continent}, Position: {position}, "
-                       f"Voting Status: {voting_status}, Created By: {created_by}, Age: {age}, "
-                       f"Vector: {vector}, Similarity: {similarity:.4f})\n")
+                      f"Voting Status: {voting_status}, Created By: {created_by}, Age: {age}, "
+                      f"Vector: {vector}, Similarity: {similarity:.4f})\n")
+            output += f"  Attributes: {', '.join(parsed_attrs)}\n"
+            
         return output
 
     query_cardinal = "Cardinal João Braz de Aviz"
