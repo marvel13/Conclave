@@ -1,1 +1,2 @@
-/conclave
+/conclave/*
+/__pycache__/*
